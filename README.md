@@ -1,4 +1,4 @@
-# Polynomial_Calculator
+# Polynomial Calculator
 The main objective of this theme is the implementation of an application that performs various operations on some polynomials introduced by the user, such as addition, subtraction, multiplication and division of two polynomials, but also the derivation, respectively their integration.
 ##
 ![image](https://user-images.githubusercontent.com/79631600/226556187-be982666-a215-4801-993f-b525f62ae11b.png)
